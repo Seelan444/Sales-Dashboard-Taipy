@@ -36,8 +36,10 @@ It contains **100,000 synthetic sales records** with the following fields:
 
 ## 🖼️ Screenshots
 
-### 🔍 Dashboard Overview
+### 🔍 Dashboard Overview<img width="1332" height="604" alt="Screenshot 1" src="https://github.com/user-attachments/assets/0f32a435-5b99-4c54-a553-26529d0c27a0" />
+
 ![Dashboard Overview](D:\Sales_data_Dashboard\assets\Screenshot 1.png)
 
-### 📈 Category-wise Sales Analysis
+### 📈 Category-wise Sales Analysis<img width="1348" height="612" alt="Screenshot 2" src="https://github.com/user-attachments/assets/220b6827-343d-4081-b1ac-5e315db80d11" />
+
 ![Category Chart](D:\Sales_data_Dashboard\assets\Screenshot 2.png)
